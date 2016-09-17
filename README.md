@@ -11,4 +11,5 @@ $ ./install_dlib.sh
 It also includes two bach files to compile dlib C++ codes and codes with both Dlib and OpenCV libraries:
 
 $ ./compile_dlib.sh   myDlibCode.cpp
+
 $ ./compile_opencv_dlib.sh   myOpenCvDlibCode.cpp
