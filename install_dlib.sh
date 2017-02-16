@@ -25,5 +25,3 @@ mkdir build
 cd build
 cmake ..
 cmake --build . --config Release
-echo "Running the Dlib Unit Test"
-./dtest --runall
